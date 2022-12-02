@@ -7,4 +7,4 @@
 - 🤖 I want to dive into machine learning when I'll be ready.
 - 🌍 I hope one day I'll be able to code something in every country all over the world.
 
-In September and October I've commited my changes to gitLab and private repositories, that is why my activity looks worse :)
+Now my changes are commited to gitLab and private repositories, that is why my activity looks worse :)
