@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working in commissioning/dev company, further developing my IT skills and meeting fantastic people.
-- 🌱 In my free time I work  on two websites from a friendly company (akademia-champion.pl, edukacja-alternatywna.pl)
-  and currently I develop my university enginner project (website - movie advisor)
+- 🌱 In my free time I help in developement of two websites from a friendly company (akademia-champion.pl, edukacja-alternatywna.pl[co - author])
 - 📫 How to reach me: you can freely contact me on: https://www.linkedin.com/in/filip-smyczek-426577237.
 - ⚡ Fun fact: Did you know that goosebumps are meant to ward off predators? :3
 - 🤖 I want to dive into machine learning when I'll be ready.
